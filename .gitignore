@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Binaries
+*.exe
+mongo-golang
+acli.exe
+
+# Go build artifacts
+*.o
+*.a
+*.so
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
